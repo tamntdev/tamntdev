@@ -23,10 +23,12 @@
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift & SwiftUI" title="Swift & SwiftUI" width="36" height="36" /></a>&nbsp;&nbsp;
+ <!--
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>&nbsp;&nbsp;
+  -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="Xcode" title="Xcode" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>&nbsp;&nbsp;
@@ -54,7 +56,7 @@
 ### GitHub stats
 <!-- Stats cards are rendered by third-party services (github-readme-stats, streak-stats), not by GitHub. -->
 <div align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamnt&theme=blueberry" />
-  <img height="165" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamnt&langs_count=10&layout=compact" />
-  <img height="165" alt="Contribution Streak" src="https://streak-stats.demolab.com?user=tamnt&theme=shadow_green" />
+  <img height="165" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamntdev&theme=blueberry" />
+  <img height="165" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tamntdev&theme=blueberry&layout=compact&langs_count=25&hide_border=true&hide=html,css,javascript,c%2B%2B,cmake,c,objective-c,ruby,shell" />  
+  <img height="165" alt="Contribution Streak" src="https://streak-stats.demolab.com?user=tamntdev&theme=blueberry&hide_border=true" />
 </div>
