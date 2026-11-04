@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋, I'm tamnt
+## Hi 👋, I'm TamNT
 
 **Mobile Engineer building high-performance Flutter & native iOS (SwiftUI) applications with bespoke Custom UI.**
 
