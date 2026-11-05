@@ -50,12 +50,12 @@
 - Interactive custom canvas editor for designing, previewing, and exporting personalized greeting cards
 - Local push notification scheduling with zero external server dependency
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://via.placeholder.com/300x620.png?text=LunarApp+1" width="18%" alt="Screen 1" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=LunarApp+2" width="18%" alt="Screen 2" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=LunarApp+3" width="18%" alt="Screen 3" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=LunarApp+4" width="18%" alt="Screen 4" />
-</p>
+</p> -->
 
 <details>
   <summary><b>🎬 Watch App Demo Video (Click to expand)</b></summary>
@@ -81,7 +81,7 @@
 - Step-by-step interactive data structure and algorithm visualizers rendered with smooth custom animations
 - Built-in coding challenges and quizzes with local state persistence to track learning progress
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://via.placeholder.com/300x620.png?text=DevPocket+1" width="18%" alt="Screen 1" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=DevPocket+2" width="18%" alt="Screen 2" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=DevPocket+3" width="18%" alt="Screen 3" />&nbsp;
@@ -93,7 +93,7 @@
   <br/>
   https://github.com/user-attachments/assets/THAY_LINK_VIDEO_MP4_VAO_DAY
 </details>
-<br/>
+<br/> -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/Source-Private%20Repo-2ea44f?style=for-the-badge&logo=github" height="40" alt="Private Repo"/>
@@ -111,14 +111,14 @@
 - Modern declarative native UI built with **Jetpack Compose** featuring custom map markers and smooth bottom-sheet transitions
 - Vector map rendering and accurate Vietnamese address geocoding powered by **MapLibre** and **Goong API**
 - Interactive timeline and spatial clustering to browse memories by location or date
-
+<!--
 <p align="left">
   <img src="https://via.placeholder.com/300x620.png?text=PinStory+1" width="18%" alt="Screen 1" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=PinStory+2" width="18%" alt="Screen 2" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=PinStory+3" width="18%" alt="Screen 3" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=PinStory+4" width="18%" alt="Screen 4" />
 </p>
-
+-->
 <p align="left">
   <img src="https://img.shields.io/badge/Source-Private%20Repo-2ea44f?style=for-the-badge&logo=github" height="40" alt="Private Repo"/>
 </p>
