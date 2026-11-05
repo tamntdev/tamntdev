@@ -55,7 +55,7 @@
   <img src="https://via.placeholder.com/300x620.png?text=LunarApp+2" width="18%" alt="Screen 2" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=LunarApp+3" width="18%" alt="Screen 3" />&nbsp;
   <img src="https://via.placeholder.com/300x620.png?text=LunarApp+4" width="18%" alt="Screen 4" />
-</p> -->
+</p>
 
 <details>
   <summary><b>🎬 Watch App Demo Video (Click to expand)</b></summary>
@@ -63,12 +63,10 @@
   https://github.com/user-attachments/assets/THAY_LINK_VIDEO_MP4_VAO_DAY
 </details>
 <br/>
-
+-->
 <p align="left">
   <a href="LINK_APP_STORE_NEU_CO" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" alt="Download on the App Store"/></a>&nbsp;&nbsp;<a href="LINK_GOOGLE_PLAY_NEU_CO" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40" alt="Get it on Google Play"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Source-Private%20Repo-2ea44f?style=for-the-badge&logo=github" height="40" alt="Private Repo"/>
 </p>
-
-<br/>
 
 ---
 
@@ -98,8 +96,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Source-Private%20Repo-2ea44f?style=for-the-badge&logo=github" height="40" alt="Private Repo"/>
 </p>
-
-<br/>
 
 ---
 
