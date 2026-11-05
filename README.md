@@ -65,7 +65,7 @@
 <br/>
 -->
 <p align="left">
-  <a href="LINK_APP_STORE_NEU_CO" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" alt="Download on the App Store"/></a>&nbsp;&nbsp;<a href="LINK_GOOGLE_PLAY_NEU_CO" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40" alt="Get it on Google Play"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Source-Private%20Repo-2ea44f?style=for-the-badge&logo=github" height="40" alt="Private Repo"/>
+  <a href="LINK_APP_STORE_NEU_CO" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="20" alt="Download on the App Store"/></a>&nbsp;&nbsp;<a href="LINK_GOOGLE_PLAY_NEU_CO" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="20" alt="Get it on Google Play"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Source-Private_Repo-2ea44f?style=flat&logo=github&logoColor=white" height="15" alt="Private Repo"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@
 <br/> -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Source-Private%20Repo-2ea44f?style=for-the-badge&logo=github" height="40" alt="Private Repo"/>
+  <img src="https://img.shields.io/badge/Source-Private_Repo-2ea44f?style=flat&logo=github&logoColor=white" height="15" alt="Private Repo"/>
 </p>
 
 ---
@@ -116,7 +116,7 @@
 </p>
 -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Source-Private%20Repo-2ea44f?style=for-the-badge&logo=github" height="40" alt="Private Repo"/>
+  <img src="https://img.shields.io/badge/Source-Private_Repo-2ea44f?style=flat&logo=github&logoColor=white" height="15" alt="Private Repo"/>
 </p>
 
 ---
@@ -127,10 +127,10 @@
 | Application | Technical Scope & Key Contributions | Stack | Store Links |
 | :--- | :--- | :--- | :--- |
 | **🍔 Ahmoma Super App** | **5-Role Food Delivery Ecosystem:** Built Merchant & Rider modules, real-time driver geolocation tracking & route rendering, multi-screen state management, RBAC, and manual order dispatching. | `Flutter`, `Riverpod`, `Socket.IO`, `Google Maps`, `FCM` | 🔒 *Internal / Enterprise* |
-| **📦 SVExpress** | **International Logistics Platform:** Engineered domestic/international shipment workflows, direct thermal label printing (**XPrinter XP-350BM**), real-time in-app chat, and revenue analytics. | `Flutter 3.32`, `Bloc`, `Socket.IO`, `Thermal Printer I/O`, `FCM` | <a href="LINK_APP_STORE" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="32" alt="App Store"/></a><br/><a href="LINK_GOOGLE_PLAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="32" alt="Google Play"/></a> |
-| **🚚 VCOExpress** | **Freight & Delivery Management:** Built multi-role shipment management (RBAC), order creation/printing flows, real-time messaging, and handled full App Store / Google Play release cycles. | `Flutter 3.32`, `Bloc`, `Socket.IO`, `Firebase` | <a href="LINK_APP_STORE" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="32" alt="App Store"/></a><br/><a href="LINK_GOOGLE_PLAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="32" alt="Google Play"/></a> |
-| **🏥 Wellaway** | **Telehealth & E-Pharmacy (Team of 2):** Integrated live doctor-patient video consultations via **Agora SDK**, e-pharmacy shopping cart, and **WorldPay** international payment gateway. | `Flutter 3.32`, `Bloc`, `Agora SDK`, `WorldPay` | <a href="LINK_GOOGLE_PLAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="32" alt="Google Play"/></a> |
-| **👶 My Queen** | **Childcare & Parent Tracking:** Developed baby profile management, check-in/check-out workflows, service booking, and real-time parent notifications. | `Flutter 3.24`, `Bloc`, `Firestore`, `Firebase Auth & Storage` | <a href="LINK_APP_STORE" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="32" alt="App Store"/></a><br/><a href="LINK_GOOGLE_PLAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="32" alt="Google Play"/></a> |
+| **📦 SVExpress** | **International Logistics Platform:** Engineered domestic/international shipment workflows, direct thermal label printing (**XPrinter XP-350BM**), real-time in-app chat, and revenue analytics. | `Flutter 3.32`, `Bloc`, `Socket.IO`, `Thermal Printer I/O`, `FCM` | <a href="LINK_APP_STORE" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="20" alt="App Store"/></a><br/><a href="LINK_GOOGLE_PLAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="20" alt="Google Play"/></a> |
+| **🚚 VCOExpress** | **Freight & Delivery Management:** Built multi-role shipment management (RBAC), order creation/printing flows, real-time messaging, and handled full App Store / Google Play release cycles. | `Flutter 3.32`, `Bloc`, `Socket.IO`, `Firebase` | <a href="LINK_APP_STORE" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="20" alt="App Store"/></a><br/><a href="LINK_GOOGLE_PLAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="20" alt="Google Play"/></a> |
+| **🏥 Wellaway** | **Telehealth & E-Pharmacy (Team of 2):** Integrated live doctor-patient video consultations via **Agora SDK**, e-pharmacy shopping cart, and **WorldPay** international payment gateway. | `Flutter 3.32`, `Bloc`, `Agora SDK`, `WorldPay` | <a href="LINK_GOOGLE_PLAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="20" alt="Google Play"/></a> |
+| **👶 My Queen** | **Childcare & Parent Tracking:** Developed baby profile management, check-in/check-out workflows, service booking, and real-time parent notifications. | `Flutter 3.24`, `Bloc`, `Firestore`, `Firebase Auth & Storage` | <a href="LINK_APP_STORE" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="20" alt="App Store"/></a><br/><a href="LINK_GOOGLE_PLAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="20" alt="Google Play"/></a> |
 
 ---
 ### Contact
