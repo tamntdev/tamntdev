@@ -143,5 +143,5 @@
 <div align="center">
   <img height="165" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamntdev&theme=blueberry" />
   <img height="165" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tamntdev&theme=blueberry&layout=compact&langs_count=25&hide_border=true&hide=html,css,javascript,c%2B%2B,cmake,c,objective-c,ruby,shell" />  
-  <img height="165" alt="Contribution Streak" src="https://streak-stats.demolab.com?user=tamntdev&theme=blueberry&hide_border=true" />
+  <!-- <img height="165" alt="Contribution Streak" src="https://streak-stats.demolab.com?user=tamntdev&theme=blueberry&hide_border=true" /> -->
 </div>
